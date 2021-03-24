@@ -1,6 +1,6 @@
 # Applying Machine Learning on Mobile Robot Navigation
 
-<b> Reference <b> : 
+<b> Reference </b> : 
   
   [1] Xia, Chen & KAMEL, A.. (2015). A Reinforcement Learning Method of Obstacle Avoidance for Industrial Mobile Vehicles in Unknown Environments Using Neural Network. 10.2991/978-94-6239-102-4_136. 
   
