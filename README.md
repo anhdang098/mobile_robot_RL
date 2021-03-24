@@ -2,7 +2,7 @@
 
 ![Mobile robot in industrial applications](https://www.interactanalysis.com/wp-content/uploads/2019/03/Autonomous-mobile-robots-2.jpg)
 
-<b> Reference </b> : 
+<b> References </b> : 
   
   [1] Xia, Chen & KAMEL, A.. (2015). A Reinforcement Learning Method of Obstacle Avoidance for Industrial Mobile Vehicles in Unknown Environments Using Neural Network. 10.2991/978-94-6239-102-4_136. 
   
