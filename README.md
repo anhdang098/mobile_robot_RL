@@ -1,4 +1,4 @@
-# Applying Machine Learning on Mobile Robot Navigation
+# Applying Machine Learning in Mobile Robot Navigation
 
 ![Mobile robot in industrial applications](https://www.interactanalysis.com/wp-content/uploads/2019/03/Autonomous-mobile-robots-2.jpg)
 
